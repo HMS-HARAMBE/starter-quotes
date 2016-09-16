@@ -8,3 +8,6 @@
 September 16th, 2016:
     - Added the changelog.
     - Had fun.
+
+September 16th, 2016:
+    - Added quote display on image hover.

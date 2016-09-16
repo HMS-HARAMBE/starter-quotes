@@ -22,7 +22,9 @@ class Quotes extends CI_Model {
 		array('id' => '5', 'who' => 'Socrates', 'mug' => 'socrates-150x150.jpg', 'where' => '/wise/bingo',
 			'what' => 'By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.'),
 		array('id' => '6', 'who' => 'Isaac Asimov', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
-			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.')
+			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
+		array('id' => '7', 'who' => 'Donald Trump', 'mug' => 'Donald-Trump-150x150.jpg', 'where' => '/election',
+			'what' => 'I will build a great wall – and nobody builds walls better than me, believe me – and I’ll build them very inexpensively. I will build a great, great wall on our southern border, and I will make Mexico pay for that wall. Mark my words.')
 	);
 
 	// Constructor

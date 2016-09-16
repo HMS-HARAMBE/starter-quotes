@@ -8,3 +8,7 @@
 September 16th, 2016:
     - Added the changelog.
     - Had fun.
+
+September 16th, 2016:
+    - Added a quote and avatar.
+    - Did not have fun.

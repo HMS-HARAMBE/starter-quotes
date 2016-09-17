@@ -14,3 +14,6 @@ September 16th, 2016:
     - Did not have fun.
     - Added quote display on image hover.
     - Fixed changelog conflict, and local repo.
+
+September 17, 2016:
+    -Added a random function that randomly selects one of the figures available

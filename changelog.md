@@ -13,3 +13,4 @@ September 16th, 2016:
     - Added a quote and avatar.
     - Did not have fun.
     - Added quote display on image hover.
+    - Fixed changelog conflict, and local repo.
